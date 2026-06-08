@@ -1,9 +1,12 @@
 # Usage and requirements
 
-## Overview
-Profile Modeler is used for profile-based machining and can be run stand-alone or linked with Control Nesting.
+## Legacy reference
+The following information applies to older standalone Profile Modeler workflows and legacy controls.
 
-## Requirements
+## Overview
+Profile Modeler was previously used for profile-based machining and could be run stand-alone or linked with Control Nesting.
+
+## Legacy requirements
 ### Stand-alone minimums
 - THM V5.05 Build 7 or higher for SIO controls on Windows 2000
 - THM V6.0.7.1 or higher for GEN II controls
@@ -15,12 +18,12 @@ Profile Modeler is used for profile-based machining and can be run stand-alone o
 - Control Nesting V5.10 or higher
 
 ## Notes
-- Parts are viewed and written in Imperial code.
-- Tooling in the Modeler must also be set up in Imperial.
-- The lower-left corner, as viewed in the Modeler, is the program origin.
-- Some parts with different profiles may still require toolchanges even if the same tool is used.
+- Parts were viewed and written in Imperial code.
+- Tooling in the Modeler had to be set up in Imperial.
+- The lower-left corner, as viewed in the Modeler, was the program origin.
+- Some parts with different profiles could still require toolchanges even if the same tool was used.
 
-## Workflow
+## Legacy workflow
 1. Start the process in eCab software.
 2. Design the tool geometry and save it as a `.tol` file.
 3. Save the cabinet or boardstock file.

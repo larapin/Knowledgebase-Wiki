@@ -1,11 +1,14 @@
 # Troubleshooting
 
+## Legacy troubleshooting reference
+The following items apply to older standalone or linked Profile Modeler setups.
+
 ## Default group contains no tools
 If Profile Modeler says the default group contains no tools:
 - Open Regedit.
 - Go to `current_user\software\thermwood\Profile_modeler\App_properties\tool_group`.
 - Reset the value to `Generic`.
-- Restart Profile Modeler.
+- Restart the application.
 
 ## Install or DLL issues
 If you get `couldn't find installable ISAM` or Operator error 4260:
