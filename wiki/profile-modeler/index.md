@@ -1,12 +1,10 @@
 # Profile Modeler
 
-Profile Modeler functionality is now integrated inside Control Nesting.
+Profile Modeler functionality has been merged into Control Nesting.
 
-## Notes
-- The older standalone Profile Modeler workflow is no longer the primary workflow.
-- Use the Control Nesting interface for profile-related operations where supported.
-- Keep this section as a historical reference for older systems and legacy troubleshooting.
+## Current workflow
+- Use Control Nesting for profile-related operations.
+- Treat older standalone Profile Modeler references as legacy documentation only.
 
-## Related topics
+## Related pages
 - [Control Nesting Software](../control-nesting-software/index.md)
-- [THM Control](../thm-control/index.md)
